@@ -24,7 +24,7 @@ Here are some of the badges I've earned throughout my DataCamp journey:
 
 ## About Me
 
-You can learn more about me and my data science journey by visiting my [GitHub profile](Your_GitHub_Profile_URL).
+You can learn more about me and my data science journey by visiting my [GitHub profile](https://github.com/Syed-Abid).
 
 Feel free to reach out to me if you have any questions or want to discuss anything related to data science, or if you'd like to collaborate on a project.
 
