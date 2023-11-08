@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 # DataCamp Achievements
 
 Welcome to my DataCamp Achievements repository! Here, you'll find a collection of certificates and badges that I've earned by completing various DataCamp courses and projects.
@@ -30,18 +31,8 @@ Feel free to reach out to me if you have any questions or want to discuss anythi
 
 ## Connect with Me
 
-<!DOCTYPE html>
-<html>
-<head>
-  <!-- Include Font Awesome via CDN -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<body>
-  <p><a href="https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/"><i class="fab fa-linkedin"></i></a></p>
-</body>
-</html>
-
-- Twitter: [Your Twitter Profile](Your_Twitter_Profile_URL)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
+- Twitter: [<i class="fab fa-twitter"></i>](Your_Twitter_Profile_URL)
+- Email: [<i class="far fa-envelope"></i>](mailto:youremail@example.com)
 
 Thank you for visiting my DataCamp Achievements repository. I hope you find my achievements and progress inspiring, and I look forward to connecting with you and sharing knowledge in the data science community!
