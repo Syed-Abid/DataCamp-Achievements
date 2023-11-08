@@ -30,7 +30,17 @@ Feel free to reach out to me if you have any questions or want to discuss anythi
 
 ## Connect with Me
 
-- [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Include Font Awesome via CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+  <p><a href="https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/"><i class="fab fa-linkedin"></i></a></p>
+</body>
+</html>
+
 - Twitter: [Your Twitter Profile](Your_Twitter_Profile_URL)
 - Email: [Your Email Address](mailto:youremail@example.com)
 
