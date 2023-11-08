@@ -31,7 +31,7 @@ Feel free to reach out to me if you have any questions or want to discuss anythi
 
 ## Connect with Me
 
-- LinkedIn: [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
+- LinkedIn: [Link](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
 - Twitter: [<i class="fab fa-twitter"></i>](Your_Twitter_Profile_URL)
 - Email: [<i class="far fa-envelope"></i>](mailto:youremail@example.com)
 
