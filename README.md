@@ -27,7 +27,7 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
 
 ## About Me
 
-You can learn more about me and my data science journey by visiting my [GitHub profile](https://github.com/Syed-Abid).
+You can learn more about me and my data science journey by visiting my [GitHub profile](https://github.com/Syed-Abid)
 
 Feel free to reach out to me if you have any questions or want to discuss anything related to data science, or if you'd like to collaborate on a project.
 
