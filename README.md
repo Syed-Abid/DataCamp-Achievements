@@ -10,7 +10,7 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
 ## Certificates
 
 ### Course Certificates
-- [Course Name 1]:
+- [Data Manipulation with Python]:
   ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Data%20Manipulation%20with%20Python%20certificate-1.png)
 - 
 
