@@ -14,6 +14,8 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
   ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Data%20Manipulation%20with%20Python%20certificate-1.png)
 - [Cleaning Data in Python]:
   ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Cleaning%20Data%20in%20Python%20Certificate-1.png)
+- [Introduction to SQL]:
+  ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Introduction%20to%20SQL%20Certificate-1.png)
 
 ### Project Certificates
 - [Project Name 1](URL): ![Certificate](Image_URL)
