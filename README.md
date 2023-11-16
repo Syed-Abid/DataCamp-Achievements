@@ -1,6 +1,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 # DataCamp Achievements
 
+<div align="center">
+  <img src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png" alt="DataCamp Logo">
+</div>
+
 Welcome to my DataCamp Achievements repository! Here, you'll find a collection of certificates and badges that I've earned by completing various DataCamp courses and projects.
 
 ## Certificates
