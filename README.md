@@ -10,9 +10,9 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
 ## Certificates
 
 ### Course Certificates
-- [Course Name 1](URL): ![Certificate](Image_URL)
-- [Course Name 2](URL): ![Certificate](Image_URL)
-- [Course Name 3](URL): ![Certificate](Image_URL)
+- [Course Name 1]:
+  ![Alt Text](https://github.com/your-username/your-repository/raw/main/path/to/your/image.png)
+- 
 
 ### Project Certificates
 - [Project Name 1](URL): ![Certificate](Image_URL)
