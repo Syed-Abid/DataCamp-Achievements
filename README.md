@@ -24,13 +24,6 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
 - [Project Name 2](URL): ![Certificate](Image_URL)
 - [Project Name 3](URL): ![Certificate](Image_URL)
 
-## Badges
-
-Here are some of the badges I've earned throughout my DataCamp journey:
-
-- ![Badge 1](Image_URL)
-- ![Badge 2](Image_URL)
-- ![Badge 3](Image_URL)
 
 ## About Me
 
@@ -41,7 +34,7 @@ Feel free to reach out to me if you have any questions or want to discuss anythi
 ## Connect with Me
 
 - LinkedIn: [Link](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
-- Twitter: [<i class="fab fa-twitter"></i>](Your_Twitter_Profile_URL)
-- Email: [<i class="far fa-envelope"></i>](mailto:youremail@example.com)
+- Twitter: [Link](https://twitter.com/SyedAbi70523793)
+- Email: abidhassanjaffri31@gmail.com
 
 Thank you for visiting my DataCamp Achievements repository. I hope you find my achievements and progress inspiring, and I look forward to connecting with you and sharing knowledge in the data science community!
