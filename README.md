@@ -11,7 +11,7 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
 
 ### Course Certificates
 - [Course Name 1]:
-  ![Alt Text](https://github.com/your-username/your-repository/raw/main/path/to/your/image.png)
+  ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Data%20Manipulation%20with%20Python%20certificate-1.png)
 - 
 
 ### Project Certificates
