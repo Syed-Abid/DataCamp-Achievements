@@ -27,8 +27,6 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
 - [Intermediate Python]
   ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Intermediate%20Python%20Certificate-1.png)
 ### Project Certificates
-- [Project Name 1](URL): ![Certificate](Image_URL)
-
 
 ## About Me
 
