@@ -29,7 +29,6 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
 ### Project Certificates
 - [Project Name 1](URL): ![Certificate](Image_URL)
 - [Project Name 2](URL): ![Certificate](Image_URL)
-- [Project Name 3](URL): ![Certificate](Image_URL)
 
 
 ## About Me
