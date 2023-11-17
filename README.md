@@ -18,7 +18,8 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
   ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Introduction%20to%20SQL%20Certificate-1.png)
 - [Intermediate Importing Data in Python]:
   ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Intermediate%20Importing%20Data%20in%20Python-1.png)
-
+- [Introduction to Data Science in Python]
+  ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Introduction%20to%20Data%20Science%20in%20Python%20Certificate-1.png)
 ### Project Certificates
 - [Project Name 1](URL): ![Certificate](Image_URL)
 - [Project Name 2](URL): ![Certificate](Image_URL)
