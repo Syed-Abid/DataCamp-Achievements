@@ -26,7 +26,6 @@ Welcome to my DataCamp Achievements repository! Here, you'll find a collection o
   ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Introduction%20to%20Statistics%20in%20Python%20Certificate-1.png)
 - [Intermediate Python]
   ![Alt Text](https://github.com/Syed-Abid/DataCamp-Achievements/blob/main/Intermediate%20Python%20Certificate-1.png)
-### Project Certificates
 
 ## About Me
 
